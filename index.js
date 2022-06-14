@@ -18,14 +18,16 @@
               },
               
             {
-                question: 'capital of Portugal is Lisbon',
-                answer: true
+                question: 'The capital of United Stated is New York',
+                answer: false 
               },
               
-            {
-                question: 'The capital of United Stated is New York',
-                answer: false
+            { 
+                question: 'capital of Portugal is Lisbon',
+                answer: true
+                
               },   
+              
         ]
 
 
@@ -46,4 +48,6 @@
              
         }
 
+
+//Assignment #3 
 
